@@ -1,4 +1,4 @@
-# Hi there, I'm DanielRTato 👋
+ # Hi there, I'm Daniel 👋 :raising_hand:
 
 Welcome to my GitHub profile! I'm Daniel, a passionate developer who enjoys exploring new technologies and building innovative projects. Here you'll find a collection of my work, including open-source contributions, personal projects, and more.
 
@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm Daniel, a passionate developer who enjoys expl
 
 ## 🚀 Projects
 
-### [Project 1: Awesome Project](https://github.com/DanielRTato/awesome-project)
-A brief description of your project, what it does, and why it's awesome.
+### [Project 1: Boletines de Programación]([https://github.com/DanielRTato/awesome-project](https://github.com/DanielRTato/Programacion))
+Programming Exercises & Assignments.
 
 ### [Project 2: Another Cool Project](https://github.com/DanielRTato/another-cool-project)
 A brief description of your project, what it does, and why it's cool.
