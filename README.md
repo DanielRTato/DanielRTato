@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Daniel, a passionate developer who enjoys expl
 
 ## 📫 How to Reach Me
 
-- **Email:** danielrtato@example.com
+- **Email:** drodrigueztato@danielcastelao.org
 - **LinkedIn:** [DanielRTato](https://www.linkedin.com/in/danielrtato/)
 - **Twitter:** [@DanielRTato](https://twitter.com/DanielRTato)
 
