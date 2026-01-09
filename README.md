@@ -1,14 +1,14 @@
- # Hi there, I'm Daniel 👋 :raising_hand:
+# Hi there, I'm Daniel 👋 :raising_hand:
 
-Welcome to my GitHub profile! I'm Daniel, a passionate developer who enjoys exploring new technologies and building innovative projects. Here you'll find a collection of my work, including open-source contributions, personal projects, and more.
+Welcome to my GitHub profile! I'm Daniel, a motivated student completing my DAM (Desarrollo de Aplicaciones Multiplataforma) cycle in Spain, while also creating video games with Unity. Here you'll find a collection of my projects and interests.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, AWS, Azure
-- **Other Interests:** Machine Learning, Data Science, DevOps
+- **Languages:** C# (Unity), Java, Python, Kotlin
+- **Frameworks:** Spring Boot, Unity (for Game Development), Django
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, Docker
+- **Other Interests:** Game Development, Software Engineering, Backend Systems
 
 ## 📈 GitHub Stats
 
@@ -35,15 +35,15 @@ A brief description of your project, what it does, and why it's cool.
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning Techniques
-- Cloud Architecture and Solutions
-- Enhancing DevOps Pipelines
+- Enhancing Unity Game Development Skills
+- Improving Backend Development with Spring Boot
+- Advanced Database Management with MongoDB and PostgreSQL
 
 ## ❤️ Interests
 
-- Open Source Contribution
-- Reading Tech Blogs
-- Participating in Hackathons
-- Traveling and Exploring New Cultures
+- Game Development
+- Exploring Backend Solutions
+- Participating in Development Communities
+- Continuous Learning
 
-Feel free to explore my repositories and connect with me. Let's build something amazing together!
+Feel free to explore my repositories and connect with me. Let's create something phenomenal together!
