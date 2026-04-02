@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm Daniel, a motivated student completing my DAM 
 
 ## 📈 GitHub Stats
 
-![DanielRTato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielRTato&show_icons=true&theme=radical&count_private=true)
+![Daniel's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=danielrtato&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRTato&layout=compact&theme=radical)
+![Daniel's Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielrtato&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DanielRTato&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielRTato&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
