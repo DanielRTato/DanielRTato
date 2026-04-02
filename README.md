@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm Daniel, a motivated student completing my DAM 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRTato&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DanielRTato&theme=radical)](https://git.io/streak-stats)
+
 ## 📫 How to Reach Me
 
 - **Email:** drodrigueztato@danielcastelao.org
