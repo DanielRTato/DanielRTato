@@ -1,52 +1,76 @@
-# Hi there, I'm Daniel 👋
+# Daniel Rodríguez Tato
 
-Welcome to my GitHub profile! I'm a **Multiplatform Application Developer (DAM)** based in Spain, currently completing my internship and transitioning into Computer Engineering (UOC). 
+**Backend · Mobile · Systems — Spain**
 
-I'm passionate about building robust backend systems, smooth mobile experiences, and exploring the intersection between software and hardware.
+![Open to work](https://img.shields.io/badge/Open%20to%20work-brightgreen?style=flat-square)
+![Junior Developer](https://img.shields.io/badge/Junior%20Developer-gray?style=flat-square)
+![Flutter · Spring Boot](https://img.shields.io/badge/Flutter%20·%20Spring%20Boot-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
-## 🚀 What I'm working on
-- 🛠️ **Internship (FCT):** Developing professional solutions with **Flutter** and **Spring Boot**.
-- 🦀 **Low-Level Interests:** Exploring computer architecture and embedded systems.
-- 🐧 **Environment:** Daily driving **Fedora** and experimenting with **Arch Linux**.
+## About
 
-## 🔧 Technologies & Tools
+Multiplatform Application Developer (DAM) finishing my professional internship in Spain, transitioning to a B.S. in Computer Engineering at UOC. I build production-ready mobile and backend systems, and I'm drawn to the lower layers of the stack — computer architecture, embedded systems, and how software meets hardware.
 
-| Category | Tools |
+Currently shipping a full-stack mobile app using Flutter (BLoC) + Spring Boot in a real production environment. When I'm not coding, I'm documenting what I learn in C, architecture, and Mandarin.
+
+---
+
+## Stack
+
+| Area | Tools |
 | :--- | :--- |
-| **Languages** | Java, Dart, **C**, C#, Kotlin, Python |
-| **Frameworks** | **Flutter (BLoC)**, Spring Boot (Security), Unity |
-| **API Testing** | **Bruno, Postman** |
+| **Languages** | Java, Dart, C, C#, Kotlin, Python |
+| **Frameworks** | Flutter (BLoC), Spring Boot (Security) |
 | **Databases** | PostgreSQL, MongoDB, MariaDB |
-| **DevOps & OS** | Docker, Git, **Linux (Fedora/Arch)**, Obsidian-to-GitHub Workflow |
+| **Tooling** | Docker, Git, Linux (Fedora / Arch), Bruno, Postman |
+| **Other** | Unity, Clean Architecture, REST APIs |
 
-## 📈 GitHub Stats
+---
+
+## Projects
+
+### 📱 Production Mobile App — Professional Internship (FCT)
+`Flutter` `Spring Boot` `PostgreSQL` `Docker` `BLoC` `Spring Security`
+
+Full-stack application shipped in a real company context. Implemented Clean Architecture on the Flutter side with BLoC state management, and a secured REST API with Spring Boot handling auth, business logic, and database access. Not a toy project.
+
+---
+
+### 📝 [Personal Knowledge Base](https://github.com/DanielRTato/Programacion)
+`Obsidian` `Git` `Markdown`
+
+Automated workflow that publishes my Obsidian notes to GitHub on commit. Covers C programming, computer architecture, and my ongoing Engineering degree. A real record of learning in progress — not just a portfolio piece.
+
+---
+
+### 🎮 Unity Game Prototypes
+`C#` `Unity` `Component Architecture`
+
+Collection of playable prototypes exploring gameplay mechanics and component-based architecture in C#. Focus on clean logic separation and reusable systems.
+
+---
+
+## Currently
+
+- 🎓 Starting B.S. Computer Engineering — UOC
+- ⚙️ Deepening C knowledge + microcontrollers / SBCs
+- 🇨🇳 Learning Mandarin Chinese
+
+---
+
+## GitHub Stats
 
 ![Daniel's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=danielrtato&show_icons=true&theme=radical)
-
 ![Daniel's Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielrtato&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielrtato&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 🚀 Key Projects
+---
 
-### 📱 Full-stack Mobile App (Professional Internship)
-Development of a production-ready application using **Flutter** and **Spring Boot**, focusing on **Clean Architecture**, state management with **BLoC**, and secure API integration.
+## Contact
 
-### 🎮 Unity Game Projects
-Collection of games and interactive mechanics developed in C#, focusing on gameplay logic and component-based architecture.
-
-### 📝 [Personal Knowledge Base](https://github.com/DanielRTato/Programacion)
-Automated workflow using **Obsidian** to document my progress in C, Computer Architecture, and my transition to Computer Engineering.
-
-## 🌱 Currently Learning
-- 🎓 **Academic:** Upcoming B.S. in Computer Engineering at UOC.
-- ⚙️ **Systems:** Deepening knowledge in **C** and **Embedded Systems** (microcontrollers & SBCs).
-- 🇨🇳 **Languages:** Learning **Chinese (Mandarin)** for fun.
-
-## 📫 How to Reach Me
-- **Email:** drodrigueztato@danielcastelao.org
-- **LinkedIn:** [Daniel Rodríguez Tato](https://www.linkedin.com/in/daniel-rodriguez-tato-6b30053b4)
+- 🔗 [LinkedIn — Daniel Rodríguez Tato](https://www.linkedin.com/in/daniel-rodriguez-tato-6b30053b4)
+- 📧 drodrigueztato@danielcastelao.org
