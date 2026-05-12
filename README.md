@@ -25,6 +25,8 @@ I'm passionate about building robust backend systems, smooth mobile experiences,
 
 ![Daniel's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=danielrtato&show_icons=true&theme=radical)
 
+![Daniel's Stats](https://github-readme-streak-stats.herokuapp.com/?user=danielrtato&theme=radical)
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielrtato&layout=compact&theme=radical" alt="Top Languages" />
 </p>
